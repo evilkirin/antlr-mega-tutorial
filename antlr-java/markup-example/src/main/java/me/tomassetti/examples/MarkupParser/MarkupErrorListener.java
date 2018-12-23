@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
 import me.tomassetti.examples.MarkupParser.MarkupParser.FileContext;
+
 public class MarkupErrorListener extends BaseErrorListener
 {            
     private String _symbol = "";
